@@ -17,6 +17,12 @@ body{
 	font-size: 30px;
 	color: white;
 }
+#eee
+{
+	width: 650px;
+	height: 150px;
+	border-radius: 20px;
+}
 #cat
 {
 	width: 300px;
